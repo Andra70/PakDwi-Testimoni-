@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+}
+
+.container {
+    margin-top: 15%;
+
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: semi-bold;
+}
+
+.img-text {
+    display: block;
+    padding: 7% 5%;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+}
+
+.img-area {
+    margin-bottom: 5px;
+}
+
+.carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -40px;
+}
+
+.carousel-indicators button{
+    left: 0;
+    top: auto;
+    bottom: -40px;
+    background-color: grey;
+}
+
+.carousel-indicators .inactive {
+    background-color: grey;
+}
+
+.carousel-indicators .active {
+    background-color: red;
+}
+
+
